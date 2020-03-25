@@ -26,7 +26,7 @@
 
 <img src="piramide de giza.jpg" alt="piramide de giza.com" width="1200" height="500">
 
-<p>Si desea saber sobre otros lugares más visitado en el mundo puede visitar la siguiente página:</p>
+<p>Si desea saber sobre otros lugares más visitados en el mundo puede visitar la siguiente página:</p>
 <a href="https://www.skyscanner.es/noticias/estos-son-los-10-lugares-turisticos-mas-visitados-del-mundo">Lugares Turísticos</a>
 </body>
 </html>

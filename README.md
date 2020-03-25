@@ -13,7 +13,7 @@ De la cincuentena de castillos que orlan las orillas del Loira, el de Saumur es 
  
 
 # La Laguna azul, Islandia
-La Laguna Azul es un spa geotérmico natural hundido en un campo de lava y es conocido por sus aguas curativas ricas en minerales. Las familias deben tener cuidado, ya que los niños menores de 2 años no están permitidos en las piscinas. Además, los niños entre 2 y 8 años deben usar flotadores.
+La<p> La Laguna Azul es un spa geotérmico natural hundido en un campo de lava y es conocido por sus aguas curativas ricas en minerales. Las familias deben tener cuidado, ya que los niños menores de 2 años no están permitidos en las piscinas. Además, los niños entre 2 y 8 años deben usar flotadores. </p>
 
 ![y-image-alt-tag](https://github.com/mafergm/proyecto1progra/blob/master/La%20laguna%20azul.jpg)
 

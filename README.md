@@ -15,11 +15,12 @@ De la cincuentena de castillos que orlan las orillas del Loira, el de Saumur es 
 <h3>La Laguna azul, Islandia </h3>
 <p>La Laguna Azul es un spa geotérmico natural hundido en un campo de lava y es conocido por sus aguas curativas ricas en minerales. Las familias deben tener cuidado, ya que los niños menores de 2 años no están permitidos en las piscinas. Además, los niños entre 2 y 8 años deben usar flotadores.</p>
 
-![y-image-alt-tag](https://github.com/mafergm/proyecto1progra/blob/master/La%20laguna%20azul.jpg)
+<img src="La laguna azul.jpg" alt="La laguna azul.com" width="104" height="142">
 
 <h4>La Gran Pirámide de Giza, Egipto </h4>
 <p>Puede ser sorprendente saber que un desierto desolado en el Medio Oriente se ha convertido en una de las mejores atracciones turísticas del mundo, a menos que consideres que muchas personas desean desesperadamente visitar la Gran Pirámide de Giza, una de las 7 maravillas oficiales del mundo antiguo. La tumba que fue construida alrededor de 2500 a.C. ahora es responsable de recibir más de 14.7 millones de visitantes por año.</p>
 
+<img src="piramide de giza.jpg" alt="piramide de giza.com" widhth="104" height="142">
 
-Si desea saber sobre otros lugares más visitados de todo el mundo puede visitar esta página:
-https://www.skyscanner.es/noticias/estos-son-los-10-lugares-turisticos-mas-visitados-del-mundo
+<p>Si desea saber sobre otros lugares más visitado en el mundo puede visitar esta página</p>
+<a href="https://www.skyscanner.es/noticias/estos-son-los-10-lugares-turisticos-mas-visitados-del-mundo">This is a link</a>

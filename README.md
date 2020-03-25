@@ -1,15 +1,19 @@
-# LUGARES MAS VISITADOS
+<html>
+ <head>
+  <title> Lugares más visitados</title>
+ </head>
+ <body>
 
-# Castillo de Eltz en Alemania
-Es lo más parecido a la multipropiedad vacacional pero en el campo de los castillos, y es que esta construcción medieval pertenecía a más de una familia. Conforme se quedaban sin espacio iban construyendo nuevas salas y torres que recibían el nombre de la familia en cuestión. El castillo de Eltz se alza entre colinas, encaramado en una espectacular roca, a 70 metros sobre el río Mosela.
+<h1>Castillo de Eltz en Alemania</h1>
+<p>Es lo más parecido a la multipropiedad vacacional pero en el campo de los castillos, y es que esta construcción medieval pertenecía a más de una familia. Conforme se quedaban sin espacio iban construyendo nuevas salas y torres que recibían el nombre de la familia en cuestión. El castillo de Eltz se alza entre colinas, encaramado en una espectacular roca, a 70 metros sobre el río Mosela.</p>
 
- ![y-image-alt-tag](https://github.com/mafergm/proyecto1progra/blob/master/tres.jpg)
+ <img src="dos.jpg" alt="dos.com" width="1200" height="500">
 
 
-# Saumur, a orillas del Loira 
-De la cincuentena de castillos que orlan las orillas del Loira, el de Saumur es uno de los más antiguos y posiblemente el que tenga una apariencia más medieval. Ubicado a las afueras de la ciudad homónima, su silueta, se divisa desde varios kilómetros a la redonda. Se construyó en el siglo XIV sobre los restos de una fortaleza anterior y fue residencia de los duques de Anjou. 
+<h2>Saumur, a orillas del Loira</h2>
+<p>De la cincuentena de castillos que orlan las orillas del Loira, el de Saumur es uno de los más antiguos y posiblemente el que tenga una apariencia más medieval. Ubicado a las afueras de la ciudad homónima, su silueta, se divisa desde varios kilómetros a la redonda. Se construyó en el siglo XIV sobre los restos de una fortaleza anterior y fue residencia de los duques de Anjou.</p> 
 
-![y-image-alt-tag](https://github.com/mafergm/proyecto1progra/blob/master/dos.jpg)
+<img src="tres.jpg" alt="tres.com" width="1200" height="500">
  
 
 <h3>La Laguna azul, Islandia </h3>
@@ -24,3 +28,6 @@ De la cincuentena de castillos que orlan las orillas del Loira, el de Saumur es 
 
 <p>Si desea saber sobre otros lugares más visitado en el mundo puede visitar esta página</p>
 <a href="https://www.skyscanner.es/noticias/estos-son-los-10-lugares-turisticos-mas-visitados-del-mundo">This is a link</a>
+</body>
+</html>
+
